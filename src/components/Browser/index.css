@@ -1,0 +1,34 @@
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.listInItems {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 60%;
+}
+.app {
+  height: 20px;
+  margin: 10px;
+}
+.time {
+  font-size: 15px;
+  margin: 15px;
+}
+.appName {
+  font-weight: 500;
+  font-size: 15px;
+  margin: 5px;
+}
+.domain {
+  font-size: 10px;
+}
+.btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+.pointer {
+  cursor: pointer;
+}
